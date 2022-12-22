@@ -13,7 +13,7 @@ def test_zap1():
                                     ("vova", "vova", "vovavova")])
 def test_zap2(s, b, c):
     assert zap(s, b) == c
-
+уцкуцкуцкуцкуц
 def test_zap3():
     try:
         assert zap("vova", "vova") == "k"
